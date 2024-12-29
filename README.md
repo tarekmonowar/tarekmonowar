@@ -19,16 +19,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 ---
 
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Authentication](https://img.shields.io/badge/Authentication-3B5998?style=for-the-badge&logo=auth0&logoColor=white)
-
-
 ## 🔧 **Tech Stack**
 
 ### Frontend Development:
