@@ -97,10 +97,24 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 - **UI/UX Design:** Figma, Adobe XD
 
 ### Backend Development:
+
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Authentication-3B5998?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/OAuth-2E5B6D?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
+  <img src="https://img.shields.io/badge/bcrypt-FFD700?style=for-the-badge&logo=hashnode&logoColor=black" alt="bcrypt">
+</div>
+
+
 - **Languages:** JavaScript (Node.js)
 - **Frameworks:** Express.js
 - **Databases:** MongoDB, MySQL
-- **Authentication:** JSON Web Tokens (JWT), OAuth
+- **Authentication:** JSON Web Tokens (JWT), OAuth,bcrypt
 
 ### Other Tools:
 - **Version Control:** Git & GitHub
