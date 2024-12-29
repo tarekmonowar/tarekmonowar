@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
  
 </ul>
 
----
+--
 
 
 ### Backend Development:
