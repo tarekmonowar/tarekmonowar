@@ -14,7 +14,7 @@
 
 # Hi, I'm Tarek Monowar 
 
-Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionate **UI/UX Designer**. I specialize in building dynamic, responsive, and scalable web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**.. I'm also committed to continuous learning and exploring innovative solutions to build efficient and scalable web applications.
+Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and specialize in **MERN stack**. I specialize in building dynamic, responsive, and scalable web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**.. I'm also committed to continuous learning and exploring innovative solutions to build efficient and scalable web applications.
 
 ---
 
