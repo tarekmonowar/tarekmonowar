@@ -1,6 +1,6 @@
 | Contribution Insights | Language Proficiency|
 |------------|-------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 
@@ -8,18 +8,7 @@
  
 
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
-### Monitoring & Analytics
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-F1F1F1?style=for-the-badge&logo=googleanalytics&logoColor=black)  
-![Sentry](https://img.shields.io/badge/Sentry-363636?style=for-the-badge&logo=sentry&logoColor=white)  
-
-
-![Profile views](https://komarev.com/ghpvc/?username=monowar93)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&theme=radical)
 
 
 
