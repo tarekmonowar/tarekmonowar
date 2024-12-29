@@ -30,7 +30,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 - **Styling Tools:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ,![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-- **UI/UX Design:** Figma, Adobe XD
+- **UI/UX Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+,![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+
 
 ### Backend Development:
 - **Languages:** JavaScript (Node.js)
