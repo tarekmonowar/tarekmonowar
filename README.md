@@ -1,6 +1,6 @@
 | Contribution Insights | Language Proficiency|
 |------------|-------------|
-|  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
+|  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekmonowar&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 
@@ -106,7 +106,6 @@ Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmono
 
 ## 🔖 **GitHub Stats**
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monowar93)](https://github.com/monowar93/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=compact&theme=radical)
 
 
