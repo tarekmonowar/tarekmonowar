@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 ## 🔧 **Tech Stack**
 
 ### Frontend Development:
+
+
 <ul>
    <li><strong>UI/UX Design:</strong>
     <img src="https://img.shields.io/badge/Your%20Ideas-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow" alt="Your Ideas Badge">
