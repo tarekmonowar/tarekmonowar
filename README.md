@@ -44,10 +44,24 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 </ul>
 
 ### Backend Development:
-- **Languages:** JavaScript (Node.js)
-- **Frameworks:** Express.js
-- **Databases:** MongoDB, MySQL
-- **Authentication:** JSON Web Tokens (JWT), OAuth
+<ul>
+  <li><strong>Languages:</strong>
+    <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
+  </li>
+  <li><strong>Frameworks:</strong>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge">
+  </li>
+  <li><strong>Databases:</strong>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  </li>
+  <li><strong>Authentication:</strong>
+    <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT Badge">
+    <img src="https://img.shields.io/badge/OAuth-0072C6?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth Badge">
+  </li>
+</ul>
+
 
 ### Other Tools:
 - **Version Control:** Git & GitHub
