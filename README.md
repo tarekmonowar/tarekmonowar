@@ -71,6 +71,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/OAuth-2E5B6D?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
   <img src="https://img.shields.io/badge/bcrypt-FFD700?style=for-the-badge&logo=hashnode&logoColor=black" alt="bcrypt">
+   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
 </div>
 
 
@@ -78,6 +79,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 - **Frameworks:** Express.js
 - **Databases:** MongoDB, MySQL
 - **Authentication:** JSON Web Tokens (JWT), OAuth,bcrypt
+- **Testing:** Jest,Mocha
 
 ### Other Tools:
 
@@ -88,7 +90,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
   <img src="https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white" alt="Render">
