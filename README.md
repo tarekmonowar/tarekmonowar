@@ -2,41 +2,13 @@
 |------------|-------------|
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monowar93&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=pie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-### Your Ideas
 
-![Design](https://img.shields.io/badge/Design-FFFFFF?style=for-the-badge&logo=adobe&logoColor=black)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6600?style=for-the-badge&logo=figma&logoColor=white)  
 
-### Front-End Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### Back-End Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### Authentication and Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  
-![OAuth](https://img.shields.io/badge/OAuth-2E5B6D?style=for-the-badge&logo=oauth&logoColor=white)  
-![bcrypt](https://img.shields.io/badge/bcrypt-FFD700?style=for-the-badge&logo=hashnode&logoColor=black)  
-
-### Development Tools & Miscellaneous
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)  
+ 
 
 ### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
+
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)  
 
 ### Deployment
@@ -117,9 +89,26 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 - **Authentication:** JSON Web Tokens (JWT), OAuth,bcrypt
 
 ### Other Tools:
+
+
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+</div>
+
+  
+
 - **Version Control:** Git & GitHub
-- **Package Management:** npm, Yarn
-- **Deployment:** Vercel, Netlify, Render, Fly.io
+- **Package Management:** npm,yarn
+- **Deployment:** Vercel, Netlify, Render, Render, Heroku AWS
 - **Development Practices:** REST API design, Agile methodology, Responsive design
 
 ---
