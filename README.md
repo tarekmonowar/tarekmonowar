@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 ---
 
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,7 +27,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 , ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Frameworks/Libraries:** ![REACT.JS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black),![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- **Styling Tools:** TailwindCSS, Bootstrap, SASS/SCSS
+- **Styling Tools:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ,![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 - **UI/UX Design:** Figma, Adobe XD
 
 ### Backend Development:
