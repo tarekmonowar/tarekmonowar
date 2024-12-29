@@ -80,7 +80,8 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 ## 🔧 **Tech Stack**
 
 ### Frontend Development:
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Languages:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+, CSS3, JavaScript (ES6+)
 - **Frameworks/Libraries:** React.js, Next.js
 - **Styling Tools:** TailwindCSS, Bootstrap, SASS/SCSS
 - **UI/UX Design:** Figma, Adobe XD
