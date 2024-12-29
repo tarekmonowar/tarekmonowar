@@ -26,7 +26,6 @@ I'm a **Full-Stack Web Developer** specializing in the **MERN stack**. I build d
   <img src="https://img.shields.io/badge/Your%20Ideas-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow" alt="Your Ideas">
   <img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -47,7 +46,6 @@ I'm a **Full-Stack Web Developer** specializing in the **MERN stack**. I build d
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Authentication-3B5998?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/OAuth-2E5B6D?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
   <img src="https://img.shields.io/badge/bcrypt-FFD700?style=for-the-badge&logo=hashnode&logoColor=black" alt="bcrypt">
    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
@@ -74,7 +72,7 @@ I'm a **Full-Stack Web Developer** specializing in the **MERN stack**. I build d
   <img src="https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  
 
   
 </div>
