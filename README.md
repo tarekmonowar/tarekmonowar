@@ -94,14 +94,14 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
   <img src="https://img.shields.io/badge/Render-333?style=for-the-badge&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  
 </div>
 
   
 
 - **Version Control:** Git & GitHub
 - **Package Management:** npm,yarn
-- **Deployment:** Vercel, Netlify, Render, Render, Heroku AWS
+- **Deployment:** Vercel, Netlify, Render, Render, Heroku , AWS
 - **Development Practices:** REST API design, Agile methodology, Responsive design
 
 ---
