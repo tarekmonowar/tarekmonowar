@@ -12,7 +12,7 @@
 
 
 
-# Hi, I'm Tarek Monowar 👋
+# Hi, I'm Tarek Monowar <i class="fa-solid fa-face-smile-hearts"></i>
 
 Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionate **UI/UX Designer**. I specialize in creating dynamic, responsive, and user-friendly web applications with modern technologies. I'm also committed to continuous learning and exploring innovative solutions to build efficient and scalable web applications.
 
