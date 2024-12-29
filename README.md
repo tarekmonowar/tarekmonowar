@@ -64,10 +64,28 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 
 
 ### Other Tools:
-- **Version Control:** Git & GitHub
-- **Package Management:** npm, Yarn
-- **Deployment:** Vercel, Netlify, Render, Fly.io
-- **Development Practices:** REST API design, Agile methodology, Responsive design
+<ul>
+  <li><strong>Version Control:</strong>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </li>
+  <li><strong>Package Management:</strong>
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge">
+    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge">
+  </li>
+  <li><strong>Deployment:</strong>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge">
+    <img src="https://img.shields.io/badge/Render-3F72AF?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge">
+    <img src="https://img.shields.io/badge/Fly.io-2D68C4?style=for-the-badge&logo=fly.io&logoColor=white" alt="Fly.io Badge">
+  </li>
+  <li><strong>Development Practices:</strong>
+    <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API Badge">
+    <img src="https://img.shields.io/badge/Agile-FF6F61?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Badge">
+    <img src="https://img.shields.io/badge/Responsive%20Design-4CAF50?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design Badge">
+  </li>
+</ul>
+
 
 ---
 
