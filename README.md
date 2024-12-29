@@ -22,6 +22,11 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
 ## 🔧 **Tech Stack**
 ### Frontend Development:
 <ul>
+   <li><strong>UI/UX Design:</strong>
+    <img src="https://img.shields.io/badge/Your%20Ideas-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow" alt="Your Ideas Badge">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+    <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD Badge">
+  </li>
   <li><strong>Languages:</strong>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
@@ -36,11 +41,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** and a passionat
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge">
   </li>
-  <li><strong>UI/UX Design:</strong>
-    <img src="https://img.shields.io/badge/Your%20Ideas-000000?style=for-the-badge&logo=lightbulb&logoColor=yellow" alt="Your Ideas Badge">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
-    <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD Badge">
-  </li>
+ 
 </ul>
 
 ### Backend Development:
