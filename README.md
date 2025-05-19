@@ -19,17 +19,17 @@
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=git,docker,graphql,postman" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,graphql,vite" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,fastapi,aws" />
   </a>
 </p>
 <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,remix" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,redux" />
   </a>
 </p>
 
