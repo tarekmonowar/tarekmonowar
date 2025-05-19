@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 60%;">
-      <h1 style="font-size: 28px; font-weight: bold;">👋 Hi, I'm <span style="color:#2F80ED;">Tarek Monowar</span></h1>
+      <h1 style="font-size: 50px; font-weight: bold; text:center;"><span style="color:#2F80ED;">Tarek Monowar</span></h1>
       <p style="font-size: 16px; line-height: 1.6;">
         I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust and scalable web applications.<br>
         Here's a bit about me:
