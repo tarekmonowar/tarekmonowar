@@ -6,7 +6,32 @@
 
 
 
- 
+ ## Technologies I Work With
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=git,docker,graphql,postman" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,azure,aws" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,remix" />
+  </a>
+</p>
 
 
 
