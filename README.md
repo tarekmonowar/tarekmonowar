@@ -1,21 +1,22 @@
 <table>
   <tr>
-  <td style="vertical-align: top; width: 50%; text-align: center;">
-  <h1 style="font-size: 50px; font-weight: bold;">
-    <span style="color:#2F80ED;">Tarek Monowar</span>
-  </h1>
-  <p style="font-size: 20px; line-height: 1.6;">
-    I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust and scalable web applications.
-    Here's a bit about me:
-  </p>
-</td>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 40%; text-align: center;">
+      <h1 style="font-weight: bold;">
+        <span style="color:#2F80ED;">Tarek Monowar</span>
+      </h1>
+      <p>
+        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust and scalable web applications.<br>
+        Here's a bit about me:
+      </p>
+    </td>
+    <td style="vertical-align: top; width: 60%;">
       <a href="https://github.com/tarekmonowar">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
