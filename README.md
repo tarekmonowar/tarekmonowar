@@ -5,7 +5,7 @@
         <span style="color:#2F80ED;">Tarek Monowar</span>
       </h1>
       <p>
-        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust and <br> scalable web applications.Here's a bit about me:
+        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust <br> and scalable web applications. Here's a bit about me :
       </p>
     </td>
     <td style="vertical-align: top; width: 60%;">
