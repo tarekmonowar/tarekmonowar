@@ -52,12 +52,6 @@
 
 
 
-# Hi, I'm Tarek Monowar 
-
-I'm a **Full-Stack Web Developer** specializing in the **MERN stack**. I build dynamic, responsive, and scalable web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**. I'm also committed to continuous learning and exploring innovative solutions to create efficient and user-friendly web applications.
-
----
-
 
 ## 🔧 **Tech Stack**
 
@@ -140,12 +134,6 @@ I'm a **Full-Stack Web Developer** specializing in the **MERN stack**. I build d
 
 Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmonowar.com).
 
----
-
-## 🔖 **GitHub Stats**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monowar93&layout=compact&theme=radical)
-
 
 ---
 
@@ -195,4 +183,13 @@ A task manager app with real-time updates and a clean UI.
 ---
 
 ### Let's Build Something Awesome Together!
+
+---
+
+
+## 🔖 **GitHub Stats**
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekmonowar&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&random=1&cache_seconds=1800) 
+
+
 
