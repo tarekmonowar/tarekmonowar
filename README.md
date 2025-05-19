@@ -1,7 +1,19 @@
-| Contribution Insights | Language Proficiency |
-|-----------------------|----------------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekmonowar&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&random=1&cache_seconds=1800) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) |
-
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      <h1 style="font-size: 28px; font-weight: bold;">👋 Hi, I'm <span style="color:#2F80ED;">Tarek Monowar</span></h1>
+      <p style="font-size: 16px; line-height: 1.6;">
+        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust and scalable web applications.<br>
+        Here's a bit about me:
+      </p>
+    </td>
+    <td style="vertical-align: top; width: 40%;">
+      <a href="https://github.com/tarekmonowar">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
