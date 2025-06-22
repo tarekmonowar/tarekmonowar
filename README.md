@@ -52,7 +52,7 @@
 
 
 
-
+---
 ## 🔧 **Tech Stack**
 
 ### Frontend Development:
