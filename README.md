@@ -19,7 +19,7 @@
 
 
 
-
+---
  ## Technologies I Work With
  <p align="center">
   <a href="https://codewithmahadihasan.me">
@@ -71,6 +71,10 @@
 - **Styling Tools:** TailwindCSS, Bootstrap, SASS/SCSS
 - **UI/UX Design:** Figma, Adobe XD
 
+
+
+
+---
 ### Backend Development:
 
 
@@ -92,6 +96,10 @@
 - **Authentication:** JSON Web Tokens (JWT), OAuth,bcrypt
 - **Testing:** Jest,Mocha
 
+
+
+
+---
 ### Other Tools:
 
 
