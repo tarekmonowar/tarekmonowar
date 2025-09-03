@@ -204,7 +204,7 @@ Showcase of my projects, skills, and contact form with dynamic animations.
 
 Feel free to reach out — I’d be happy to hear from you! 😊  
 
-✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
+✉️ **Email:** [your.email@example.com](mailto:tarekmonowar353@gmail.com)
 
 
 
