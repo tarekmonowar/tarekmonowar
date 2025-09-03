@@ -1,5 +1,24 @@
-<p align="center"> <img src="https://res.cloudinary.com/dlayfdbyq/image/upload/v1756878998/Yellow_Monochrome_Photo_LinkedIn_Banner_rd9jq9.png" alt="Tarek Monowar Banner" style="width:100%; max-width:1000px; border-radius:12px;" /> </p> <table> <tr> <td style="vertical-align: top; width: 40%; text-align: center;"> <h1 style="font-weight: bold;"> <span style="color:#2F80ED;">Tarek Monowar</span> </h1> <p> I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust <br> and scalable web applications. Here's a bit about me : </p> </td> <td style="vertical-align: top; width: 60%;"> <a href="https://github.com/tarekmonowar"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" /> </a> </td> </tr> </table>
+<p align="center">
+  <img src="https://res.cloudinary.com/dlayfdbyq/image/upload/v1756878998/Yellow_Monochrome_Photo_LinkedIn_Banner_rd9jq9.png" alt="Tarek Monowar Banner" style="width:100%; max-width:1000px; border-radius:12px;" />
+</p>
 
+<table>
+  <tr>
+    <td style="vertical-align: top; text-align: center;">
+      <h1 style="font-weight: bold;">
+        <span style="color:#2F80ED;">Tarek Monowar</span>
+      </h1>
+      <p>
+        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust and scalable web applications. Here's a bit about me:
+      </p>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://github.com/tarekmonowar">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" style="max-width: 100%;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
