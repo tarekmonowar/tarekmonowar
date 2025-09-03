@@ -9,7 +9,7 @@
         <span style="color:#2F80ED;">Tarek Monowar</span>
       </h1>
       <p>
-        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust and scalable web applications. Here's a bit about me:
+       I am a dedicated <strong>Fullstack Developer</strong> passionate about building <strong>high-performance</strong> and scalable web applications. Here’s a brief overview of my skills and experience:
       </p>
     </td>
     <td style="vertical-align: top;">
