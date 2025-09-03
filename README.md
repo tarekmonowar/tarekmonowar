@@ -2,23 +2,23 @@
   <img src="https://res.cloudinary.com/dlayfdbyq/image/upload/v1756878998/Yellow_Monochrome_Photo_LinkedIn_Banner_rd9jq9.png" alt="Tarek Monowar Banner" style="width:100%; max-width:1000px; border-radius:12px;" />
 </p>
 
-<table>
+<table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="vertical-align: top; width: 40%; text-align: center;">
-      <h1 style="font-weight: bold;">
-        <span style="color:#2F80ED;">Tarek Monowar</span>
-      </h1>
+    <td style="vertical-align: top; width: 40%; text-align: center; padding: 0 10px;">
+      <h1 style="font-weight: bold; color:#2F80ED;">Tarek Monowar</h1>
       <p>
-        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust <br> and scalable web applications. Here's a bit about me :
+        I'm a passionate <strong>Fullstack Developer</strong> with a keen interest in building robust <br>
+        and scalable web applications. Here's a bit about me:
       </p>
     </td>
-    <td style="vertical-align: top; width: 60%;">
+    <td style="vertical-align: top; width: 60%; text-align: center; padding: 0 10px;">
       <a href="https://github.com/tarekmonowar">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" style="width:100%; max-width:400px;" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
