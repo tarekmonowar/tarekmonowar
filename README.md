@@ -65,13 +65,16 @@
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/TypeScript-ES6%2B-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+
 </div>
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React.js, Next.js
-- **Styling Tools:** TailwindCSS, Bootstrap, SASS/SCSS
+- **Languages:** HTML5, CSS3, JavaScript (ES6+) , TypeScript
+- **Frameworks/Libraries:** React.js, Redux , Next.js
+- **Styling Tools:** TailwindCSS, ShadCN UI , Framer motion , Bootstrap, SASS/SCSS
 - **UI/UX Design:** Figma, Adobe XD
 
 
@@ -85,18 +88,20 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL">
   <img src="https://img.shields.io/badge/Authentication-3B5998?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication">
   <img src="https://img.shields.io/badge/OAuth-2E5B6D?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
-  <img src="https://img.shields.io/badge/bcrypt-FFD700?style=for-the-badge&logo=hashnode&logoColor=black" alt="bcrypt">
-   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+<img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+<img src="https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API">
 </div>
 
 
-- **Languages:** JavaScript (Node.js)
+- **Languages:** TypeScript (Node.js) 
 - **Frameworks:** Express.js
-- **Databases:** MongoDB, MySQL
-- **Authentication:** JSON Web Tokens (JWT), OAuth,bcrypt
+- **Databases:** MongoDB, Postgre SQL
+- **Authentication:** JSON Web Tokens (JWT), OAuth, bcrypt, Stripe, Rest API , Prisma
 - **Testing:** Jest,Mocha
 
 
@@ -133,7 +138,7 @@
 
 ## 🌟 **What I Do**
 
-- **Full-Stack Web Development:** Build end-to-end applications with seamless integration of frontend and backend.
+- **Full-Stack Web Development:** Build end-to-end applications with seamless integration of frontend, backend and database.
 - **UI/UX Design:** Design user interfaces focused on enhancing the user experience.
 - **Responsive Design:** Develop websites that are optimized for all devices (mobile-first approach).
 - **Authentication Systems:** Implement secure login and registration systems.
@@ -143,37 +148,33 @@
 
 ## 🔼 **My Portfolio**
 
-Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmonowar.com).
+Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmonowar.vercel.app).
 
 
 ---
 
 ## 🔒 **Featured Projects**
 
-### 1. [E-Commerce Platform](https://github.com/tarekmonowar/e-commerce)
-A fully responsive e-commerce website with user authentication, product management, and shopping cart functionality.
+### 1. [E-Commerce Platform](https://github.com/tarekmonowar/E-Commerce-FrontEnd)
+A fully responsive e-commerce website with user authentication, product management, shopping cart functionality and admin dashboard for realtime statastics and insight.
 - **Tech Stack:** React.js, Node.js, MongoDB, TailwindCSS
 
-### 2. [Personal Portfolio](https://github.com/tarekmonowar/portfolio)
-Showcase of my projects, skills, and contact form with dynamic animations.
-- **Tech Stack:** Next.js, TailwindCSS
-
-### 3. [Blog Platform](https://github.com/tarekmonowar/blog-platform)
-A blogging platform with CRUD operations and user authentication.
+### 2. [Ride Managment Platform ](https://github.com/tarekmonowar/Ride-Management-FrontEnd)
+A ride management platform where riders can post rides, drivers can accept and update them, and admins can monitor and manage all activities.
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-### 4. [Task Management App](https://github.com/tarekmonowar/task-manager)
-A task manager app with real-time updates and a clean UI.
-- **Tech Stack:** React.js, Node.js, MySQL
+### 3.  [Personal Portfolio](https://github.com/tarekmonowar/tm-main)
+Showcase of my projects, skills, and contact form with dynamic animations.
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
 ## 🚀 **How to Reach Me**
 
-- **Website:** [tarekmonowar.com](https://tarekmonowar.com)
-- **Email:** [tarek@example.com](mailto:tarek@example.com)
-- **LinkedIn:** [linkedin.com/in/tarekmonowar](https://linkedin.com/in/tarekmonowar)
-- **Twitter:** [@tarekmonowar](https://twitter.com/tarekmonowar)
+- **Website:** [tarekmonowar.com](https://tarekmonowar.vercel.app)
+- **Email:** [tarek@example.com](mailto:tarekmonowar353@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tarekmonowar](https://linkedin.com/in/tarekmonowar/)
+- **Facebook:** [@tarekmonowar](https:www.facebook.com/tarekmonowar93)
 
 ---
 
