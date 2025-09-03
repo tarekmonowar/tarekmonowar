@@ -202,6 +202,11 @@ Showcase of my projects, skills, and contact form with dynamic animations.
 
 ### 🚀 Let's Build Something Awesome Together! 🌟💻
 
+Feel free to reach out — I’d be happy to hear from you! 😊  
+
+✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+
 
 
 
