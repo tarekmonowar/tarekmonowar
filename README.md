@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dlayfdbyq/image/upload/v1756878998/Yellow_Monochrome_Photo_LinkedIn_Banner_rd9jq9.png" alt="Tarek Monowar Banner" style="width:100%; max-width:1000px; border-radius:12px;" />
+</p>
+
 <table>
   <tr>
     <td style="vertical-align: top; width: 40%; text-align: center;">
