@@ -194,14 +194,13 @@ Showcase of my projects, skills, and contact form with dynamic animations.
 
 ---
 
-### Let's Build Something Awesome Together!
-
----
-
 
 ## 🔖 **| Contribution Insights |**
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekmonowar&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&random=1&cache_seconds=1800) 
+
+
+### Let's Build Something Awesome Together!
 
 
 
