@@ -171,7 +171,7 @@ Showcase of my projects, skills, and contact form with dynamic animations.
 
 ## 🚀 **How to Reach Me**
 
-- **Website:** [tarekmonowar.com](https://tarekmonowar.vercel.app)
+- **Website:** [tarekmonowar.vercel.app](https://tarekmonowar.vercel.app)
 - **Email:** [tarekmonowar@gmail.com](mailto:tarekmonowar353@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tarekmonowar](https://linkedin.com/in/tarekmonowar/)
 - **Facebook:** [@tarekmonowar](https:www.facebook.com/tarekmonowar93)
