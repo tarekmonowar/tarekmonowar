@@ -148,7 +148,7 @@
 
 ## 🔼 **My Portfolio**
 
-Check out my live projects and portfolio at [tarekmonowar.com](https://tarekmonowar.vercel.app).
+Check out my live projects and portfolio at [tarekmonowar.vercel.app](https://tarekmonowar.vercel.app).
 
 
 ---
