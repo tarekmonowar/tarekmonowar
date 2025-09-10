@@ -156,7 +156,7 @@ Check out my live projects and portfolio at [tarekmonowar.vercel.app](https://ta
 ## 🔒 **Featured Projects**
 
 ### 1. [E-Commerce Platform](https://github.com/tarekmonowar/E-Commerce-FrontEnd)
-A fully responsive e-commerce website with user authentication, product management, shopping cart functionality and admin dashboard for realtime statastics and insight.
+A fully responsive e-commerce website with user Authentication, Product management, shopping cart functionality and admin dashboard for realtime statastics and insight.
 - **Tech Stack:** React.js, Node.js, MongoDB, TailwindCSS
 
 ### 2. [Ride Managment Platform ](https://github.com/tarekmonowar/Ride-Management-FrontEnd)
