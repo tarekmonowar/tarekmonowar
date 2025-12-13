@@ -207,7 +207,6 @@ Feel free to reach out — I’d be happy to hear from you! 😊
 
 ✉️ **Email:** [tarekmonowar353@gmail.com.com](mailto:tarekmonowar353@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tarekmonowar&color=blue)
 
 
 
