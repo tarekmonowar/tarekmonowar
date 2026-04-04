@@ -26,7 +26,7 @@
  ## Technologies I Work With
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
  <p align="center">
