@@ -41,7 +41,7 @@
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,fastapi,aws" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,fastapi,aiscript" />
   </a>
 </p>
 <p align="center">
