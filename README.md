@@ -26,7 +26,12 @@
  ## Technologies I Work With
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=ai,ts" />
+    <img src="https://skillicons.dev/icons?i=ai" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=ts,js" />
   </a>
 </p>
  <p align="center">
@@ -36,19 +41,19 @@
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,css,html" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=githubactions,docker,jest,graphql,firebase,fastapi,aiscript" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,jest,graphql,firebase" />
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=html,, githubactions,docker,graphql" />
+    <img src="https://skillicons.dev/icons?i=nginx,kubernetes,sass,ubuntu,css,html," />
   </a>
-</p> -->
+</p>
 
 
 
