@@ -31,12 +31,12 @@
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=githubactions,docker,graphql,vite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,react,nextjs,vite" />
   </a>
 </p>
  <p align="center">
@@ -46,7 +46,7 @@
 </p>
 <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,redux, githubactions,docker,graphql" />
   </a>
 </p>
 
