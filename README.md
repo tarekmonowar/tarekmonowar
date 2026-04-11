@@ -41,19 +41,19 @@
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,css,sass" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=githubactions,docker,jest,graphql,firebase" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,jest,graphql,firebase,nginx,kubernetes,ubuntu" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://codewithmahadihasan.me">
     <img src="https://skillicons.dev/icons?i=nginx,kubernetes,sass,ubuntu,css,html," />
   </a>
-</p>
+</p> -->
 
 
 
