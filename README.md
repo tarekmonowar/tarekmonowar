@@ -26,29 +26,29 @@
  ## Technologies I Work With
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://skillicons.dev/icons?i=ai,ts" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,react,nextjs,vite" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,css,html" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,fastapi,aiscript" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,jest,graphql,firebase,fastapi,aiscript" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=html,css,redux, githubactions,docker,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,, githubactions,docker,graphql" />
   </a>
-</p>
+</p> -->
 
 
 
