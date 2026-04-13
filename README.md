@@ -210,7 +210,7 @@ Showcase of my projects, skills, and contact form with dynamic animations.
 
 Feel free to reach out — I’d be happy to hear from you! 😊  
 
-✉️ **Email:** [tarekmonowar353@gmail.com.com](mailto:tarekmonowar353@gmail.com)
+✉️ **Email:** [tarekmonowar353@gmail.com](mailto:tarekmonowar353@gmail.com)
 
 
 
