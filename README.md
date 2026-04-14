@@ -12,11 +12,11 @@
       I am a dedicated <strong>Fullstack Developer</strong> passionate about building <strong>high-performance</strong> and scalable web applications. I enjoy solving complex problems and delivering seamless, impactful digital experiences. Here’s a brief overview of my skills and experience:
       </p>
     </td>
-    <td style="vertical-align: top;">
+    <!-- <td style="vertical-align: top;">
       <a href="https://github.com/tarekmonowar">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmonowar&layout=pie&show_icons=true&cache_seconds=1800" alt="Top Languages" style="max-width: 100%;" />
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
